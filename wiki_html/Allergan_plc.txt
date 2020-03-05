@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Allergan - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XmCB1gpAICMAADxLNSEAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Allergan","wgTitle":"Allergan","wgCurRevisionId":942748813,"wgRevisionId":942748813,"wgArticleId":48348949,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Allergan","wgRelevantArticleId":48348949,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgRedirectedFrom":"Allergan,_plc","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Allergan","wgWikibaseItemId":"Q906187","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,
+"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.icons.images":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","mobile.site","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%2Cwikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Allergan&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Allergan&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Allergan"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Allergan rootpage-Allergan stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" title="Open main menu" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu toggle-list__toggle mw-ui-icon-flush-left" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Allergan" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Allergan" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Allergan</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Allergan" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">
+					Language
+				</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Allergan" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">
+					Watch
+				</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Allergan&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">
+					Edit
+				</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.1 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Allergan,_plc&amp;redirect=no" class="mw-redirect" title="Allergan, plc">Allergan, plc</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><div role="note" class="hatnote navigation-not-searchable">This article is about the Irish pharmaceutical company. For the antigen, see <a href="/wiki/Allergen" title="Allergen">Allergen</a>.</div>
+
+<p><b>Allergan plc</b> is an Irish-domiciled <a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">pharmaceutical</a> company that acquires, develops, and markets brand name drugs, and in 2017 generated 80% net sales from the U.S. healthcare system.<sup id="cite_ref-10K_1-1" class="reference"><a href="#cite_note-10K-1">[1]</a></sup><sup id="cite_ref-wsj1_2-0" class="reference"><a href="#cite_note-wsj1-2">[2]</a></sup> Allergan plc was formed in February 2015 when Irish–registered <a href="/wiki/Actavis_plc" class="mw-redirect" title="Actavis plc">Actavis plc</a> acquired U.S.–registered <a href="/wiki/Allergan,_Inc." title="Allergan, Inc.">Allergan, Inc.</a>, and assumed the Allergan name. Actavis was a 2013 U.S. <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversion</a> that moved its legal domicile to Ireland to avoid U.S. taxes.<sup id="cite_ref-activis_deals_3-0" class="reference"><a href="#cite_note-activis_deals-3">[3]</a></sup> Actavis used the Irish <a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland" title="Corporation tax in the Republic of Ireland">low-tax corporate system</a> to acquire large U.S. pharmaceutical firms (e.g. Forest Labs, Allergan Inc.), and redomicile them to Ireland.<sup id="cite_ref-wsjinversions_4-0" class="reference"><a href="#cite_note-wsjinversions-4">[4]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Allergan plc</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Allergan_plc_logo.svg" class="image"><img alt="Allergan plc logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Allergan_plc_logo.svg/220px-Allergan_plc_logo.svg.png" decoding="async" width="220" height="49" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Allergan_plc_logo.svg/330px-Allergan_plc_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5e/Allergan_plc_logo.svg/440px-Allergan_plc_logo.svg.png 2x" data-file-width="512" data-file-height="114"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_limited_company" title="Public limited company">Public limited company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:AGN">AGN</a></li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=IE00BY9D5467">IE00BY9D5467</a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Pharmaceutical_industry" title="Pharmaceutical industry">Pharmaceutical industry</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessors</th><td style="line-height: 1.35em;"><a href="/wiki/Allergan,_Inc." title="Allergan, Inc.">Allergan, Inc.</a> and <a href="/wiki/Actavis" title="Actavis">Actavis</a> before the 2015 Irish <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversion</a> and merger</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">May 16, 2013<span class="noprint">; 6 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2013-05-16</span>)</span> upon the combination of Allergan Finance, LLC (<a href="/wiki/Actavis" title="Actavis">Actavis</a>) &amp; <a href="/wiki/Warner_Chilcott" title="Warner Chilcott">Warner Chilcott</a><br>March 17, 2015<span class="noprint">; 4 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2015-03-17</span>)</span> renamed to Allergan Plc upon the merger of <a href="/wiki/Allergan,_Inc" class="mw-redirect" title="Allergan, Inc">Allergan, Inc</a> and <a href="/wiki/Actavis" title="Actavis">Actavis</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Allen_Chao" title="Allen Chao">Allen Chao</a> <a href="https://www.wikidata.org/wiki/Q906187?uselang=en#P112" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;">Clonshaugh Business &amp; Technology Park, Coolock, D17 E400, <div style="display: inline;" class="locality"><a href="/wiki/Dublin" title="Dublin">Dublin</a></div>, <div style="display: inline;" class="country-name">Ireland</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height: 1.35em;">40 manufacturing facilities, 27 global R&amp;D centres and marketing/sales facilities worldwide.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">~100 countries</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Branded <a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">pharmaceuticals</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $16.089 billion (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> -$5.142 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> $94.699 billion (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> $58.195 billion (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">17,800 (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="https://www.allergan.com/">www<wbr></wbr>.allergan<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10K_1-0" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></td></tr></tbody></table><p>In 2016, the U.S. Treasury blocked Actavis from executing what would have been the largest corporate tax inversion in history, in a $160 billion merger with <a href="/wiki/Pfizer" title="Pfizer">Pfizer</a>.<sup id="cite_ref-rules2_5-0" class="reference"><a href="#cite_note-rules2-5">[5]</a></sup> In 2016, the generics unit was sold to <a href="/wiki/Teva_Pharmaceutical_Industries" title="Teva Pharmaceutical Industries">Teva</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>In June 2019, U.S. pharmaceutical company <a href="/wiki/AbbVie" class="mw-redirect" title="AbbVie">AbbVie</a> announced it had reached an agreement to acquire Allergan for $63 billion; however the transaction would not be structured as a tax inversion, and that post the transaction, the Group would be domiciled in the U.S. for tax purposes.<sup id="cite_ref-abbvieguardian_7-0" class="reference"><a href="#cite_note-abbvieguardian-7">[7]</a></sup><sup id="cite_ref-abbviebloomberg_8-0" class="reference"><a href="#cite_note-abbviebloomberg-8">[8]</a></sup></p><p>Allergan acquires, develops, reprices and markets branded products in six therapeutic areas: aesthetics/dermatology/plastic surgery; neurosciences/<a href="/wiki/Central_nervous_system" title="Central nervous system">CNS</a>; eye care; women’s health and urology; <a href="/wiki/Gastrointestinal" class="mw-redirect" title="Gastrointestinal">GI</a> and cystic fibrosis; and cardiovascular disease and infectious disease.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Predecessor_companies_(Pre_2015)"><span class="tocnumber">1.1</span> <span class="toctext">Predecessor companies (Pre 2015)</span></a>
+<ul><li class="toclevel-3 tocsection-3"><a href="#Actavis_plc_(Watson_Pharmaceuticals)"><span class="tocnumber">1.1.1</span> <span class="toctext">Actavis plc (Watson Pharmaceuticals)</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Allergan,_Inc."><span class="tocnumber">1.1.2</span> <span class="toctext">Allergan, Inc.</span></a></li>
+</ul></li>
+<li class="toclevel-2 tocsection-5"><a href="#Tax_inversion_with_Actavis_plc_(2015%E2%80%932019)"><span class="tocnumber">1.2</span> <span class="toctext">Tax inversion with Actavis plc (2015–2019)</span></a>
+<ul><li class="toclevel-3 tocsection-6"><a href="#2015:_Post_tax_inversion_transactions"><span class="tocnumber">1.2.1</span> <span class="toctext">2015: Post tax inversion transactions</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#2016:_Abandoned_tax_inversion_with_Pfizer"><span class="tocnumber">1.2.2</span> <span class="toctext">2016: Abandoned tax inversion with Pfizer</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#2016:_Sale_of_Actavis_Generics_to_Teva"><span class="tocnumber">1.2.3</span> <span class="toctext">2016: Sale of Actavis Generics to Teva</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#2017:_Additional_acquisitions"><span class="tocnumber">1.2.4</span> <span class="toctext">2017: Additional acquisitions</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#2018:_Opioid_epidemic"><span class="tocnumber">1.2.5</span> <span class="toctext">2018: Opioid epidemic</span></a></li>
+</ul></li>
+<li class="toclevel-2 tocsection-11"><a href="#Acquisition_by_AbbVie_Inc._(Post_2019)"><span class="tocnumber">1.3</span> <span class="toctext">Acquisition by AbbVie Inc. (Post 2019)</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Acquisition_history"><span class="tocnumber">1.4</span> <span class="toctext">Acquisition history</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-13"><a href="#Products"><span class="tocnumber">2</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span id="Predecessor_companies_.28Pre_2015.29"></span><span class="mw-headline" id="Predecessor_companies_(Pre_2015)">Predecessor companies (Pre 2015)</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=2" title="Edit section: Predecessor companies (Pre 2015)" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Allergan plc was created from the 2015 Irish corporate tax inversion of two companies, Irish-based <a href="/wiki/Actavis" title="Actavis">Actavis plc</a> and U.S.-based Allergan, Inc.
+</p>
+<h4 class="in-block"><span id="Actavis_plc_.28Watson_Pharmaceuticals.29"></span><span class="mw-headline" id="Actavis_plc_(Watson_Pharmaceuticals)">Actavis plc (Watson Pharmaceuticals)</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=3" title="Edit section: Actavis plc (Watson Pharmaceuticals)" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>In the spring of 1983, colleagues <a href="/wiki/Allen_Chao" title="Allen Chao">Allen Chao</a> and David Hsia formed Watson Pharmaceuticals, a small drug development company with funding from friends and family. The founders established an initial product development and analytical laboratory with four other employees in a leased space in <a href="/wiki/Libertyville,_Illinois" title="Libertyville, Illinois">Libertyville, Illinois</a>.
+</p><p>In late fall of 1983, the company moved to a 2,000-square-foot leased facility in <a href="/wiki/Corona,_California" title="Corona, California">Corona, California</a> and began the development and manufacturing of generic pharmaceuticals.
+</p><p>In 1993, the company became a <a href="/wiki/Public_company" title="Public company">public company</a> via an <a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a>.
+</p><p>In 2011, the company moved its corporate headquarters from <a href="/wiki/Corona,_California" title="Corona, California">Corona, California</a> to <a href="/wiki/Parsippany-Troy_Hills,_New_Jersey" title="Parsippany-Troy Hills, New Jersey">Parsippany-Troy Hills, New Jersey</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><p>On October 31, 2012, Watson acquired Actavis for <a href="/wiki/Euro" title="Euro">€</a>4.25 billion and took the Actavis name.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p><p>On October 1, 2013, Actavis acquired Irish–registered <a href="/wiki/Warner_Chilcott" title="Warner Chilcott">Warner Chilcott</a> for $5 billion and used the transaction to execute a <a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#List_of_inversions" title="Corporation tax in the Republic of Ireland">corporate tax inversion</a> to Ireland.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In 2014, Activis plc, now Irish-tax registered, acquired Forest Labouratories for $25 billion.<sup id="cite_ref-activis_deals_3-1" class="reference"><a href="#cite_note-activis_deals-3">[3]</a></sup></p><p>In July 2015, the <i><a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a></i> noted that Ireland's lower <a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#ETR" title="Corporation tax in the Republic of Ireland">effective tax rates</a> made U.S. multinationals who inverted to Ireland highly acquisitive of other U.S. firms (i.e. they could afford to pay more to acquire U.S. competitors to re-domicile them to Ireland); after Activis completed its inversion, other pharmaceutical companies also performed inversions to Ireland including <a href="/wiki/Endo_International" title="Endo International">Endo International</a>, <a href="/wiki/Mallinckrodt" title="Mallinckrodt">Mallinckrodt</a> and <a href="/wiki/Horizon_Pharma" class="mw-redirect" title="Horizon Pharma">Horizon Pharma</a>.<sup id="cite_ref-wsjinversions_4-1" class="reference"><a href="#cite_note-wsjinversions-4">[4]</a></sup></p>
+<h4 class="in-block"><span id="Allergan.2C_Inc."></span><span class="mw-headline" id="Allergan,_Inc.">Allergan, Inc.</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=4" title="Edit section: Allergan, Inc." data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Allergan,_inc_logo.png" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Allergan%2C_inc_logo.png/220px-Allergan%2C_inc_logo.png" decoding="async" width="220" height="44" class="thumbimage" data-file-width="707" data-file-height="141"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 44px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Allergan%2C_inc_logo.png/220px-Allergan%2C_inc_logo.png" data-alt="" data-width="220" data-height="44" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Allergan,_inc_logo.png" class="internal" title="Enlarge"></a></div>Logo used for the original Allergan until the merger with Actavis in 2015</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Allergan_headquarters.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Allergan_headquarters.jpg/220px-Allergan_headquarters.jpg" decoding="async" width="220" height="155" class="thumbimage" data-file-width="2776" data-file-height="1956"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 155px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Allergan_headquarters.jpg/220px-Allergan_headquarters.jpg" data-alt="" data-width="220" data-height="155" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Allergan_headquarters.jpg" class="internal" title="Enlarge"></a></div>Allergan, Inc. headquarters in Irvine</div></div></div>
+<p>In 1950, pharmacist Gavin S. Herbert established Allergan Pharmaceuticals, Inc. Allergan focused on the discovery and development of novel formulations for specialty markets, as well as intimate collaboration with physicians and the scientific community. In 1953, Allergan produced eye drops and formulated new products such as the first cortisone eye drop to treat allergic inflammation and the first ophthalmic steroid decongestant.
+</p><p>In 1970, the company became a <a href="/wiki/Public_company" title="Public company">public company</a> via an <a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a>. In 1980, it was acquired by <a href="/wiki/SmithKline_Beckman" class="mw-redirect" title="SmithKline Beckman">SmithKline Beckman</a> for $259 million in 1980. In 1989, Allergan was spun-off by SmithKline Beckman.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p><p>In 1998, <a href="/wiki/David_E.I._Pyott" title="David E.I. Pyott">David E.I. Pyott</a> became chief executive officer of the company, a position he held until the merger in 2015.
+</p><p>In July 2002, the company <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spun off</a> its ophthalmic surgical and contact lens care businesses into Advanced Medical Optics (now <a href="/wiki/Abbott_Medical_Optics" title="Abbott Medical Optics">Abbott Medical Optics</a>).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p><p>In 2003, Allergan's flagship product, Botox (<a href="/wiki/Botulinum_toxin" title="Botulinum toxin">Botulinum toxin</a>), was the focus of a high-profile lawsuit and media scrutiny.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p><p>On March 1, 2013, the company acquired MAP Pharmaceuticals for approximately $958 million.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> In December, the company sold its obesity intervention business to Apollo Endosurgery, for a cash payment of $75 million and $15 million of stock.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3 class="in-block"><span id="Tax_inversion_with_Actavis_plc_.282015.E2.80.932019.29"></span><span class="mw-headline" id="Tax_inversion_with_Actavis_plc_(2015–2019)">Tax inversion with Actavis plc (2015–2019)</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=5" title="Edit section: Tax inversion with Actavis plc (2015–2019)" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#Corporate_tax_inversions" title="Corporation tax in the Republic of Ireland">Corporation tax in the Republic of Ireland § Corporate tax inversions</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Allergan_Headquarters_in_Ireland_(Clonsaugh_Park,_Coolock,_Dublin).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Allergan_Headquarters_in_Ireland_%28Clonsaugh_Park%2C_Coolock%2C_Dublin%29.jpg/220px-Allergan_Headquarters_in_Ireland_%28Clonsaugh_Park%2C_Coolock%2C_Dublin%29.jpg" decoding="async" width="220" height="164" class="thumbimage" data-file-width="260" data-file-height="194"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 164px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Allergan_Headquarters_in_Ireland_%28Clonsaugh_Park%2C_Coolock%2C_Dublin%29.jpg/220px-Allergan_Headquarters_in_Ireland_%28Clonsaugh_Park%2C_Coolock%2C_Dublin%29.jpg" data-alt="" data-width="220" data-height="164" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Allergan_Headquarters_in_Ireland_(Clonsaugh_Park,_Coolock,_Dublin).jpg" class="internal" title="Enlarge"></a></div>Allergan plc headquarters in Ireland</div></div></div>
+<p>On March 17, 2015, Irish–based Actavis plc acquired U.S.–based <a href="/wiki/Allergan,_Inc." title="Allergan, Inc.">Allergan, Inc.</a> for $70 billion, and in effect redomiciled Allergan to Ireland in a corporate tax inversion.<sup id="cite_ref-activis_deals_3-2" class="reference"><a href="#cite_note-activis_deals-3">[3]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In June 2015, the company took the Allergan name for the combined group.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> At the time of the corporate tax inversion to Ireland, over 85% of the combined sales of the post-merger Allergan plc were from the U.S. healthcare system, and Irish sales were too small to be categorised.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h4 class="in-block"><span class="mw-headline" id="2015:_Post_tax_inversion_transactions">2015: Post tax inversion transactions</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=6" title="Edit section: 2015: Post tax inversion transactions" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>On July 7, 2015, the company acquired the rights to the late stage CGRP <a href="/wiki/Migraine" title="Migraine">migraine</a> portfolio of <a href="/wiki/Merck_%26_Co" class="mw-redirect" title="Merck &amp; Co">Merck &amp; Co</a>, as well as two experimental drugs (MK-1602 and MK-8031) for an upfront payment of $250 million.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> On August 10, the company acquired Oculeve for $125 million.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> On August 31, the company acquired Naurex for an upfront payment of $560 million.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> On October 19, the company acquired AqueSys, developer of ocular implants that reduce <a href="/wiki/Intraocular_pressure" title="Intraocular pressure">intraocular pressure</a> associated with <a href="/wiki/Glaucoma" title="Glaucoma">glaucoma</a>, for an initial payment of $300 million.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> On October 1, the company acquired Kythera Biopharmaceuticals, a company focused on the medical aesthetics market, for $2.1 billion.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> On November 4 the company announced the acquisition of Northwood Medical Innovation, developer of earFold, a medical device to correct <a href="/wiki/Protruding_ear" title="Protruding ear">protruding ears</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> On November 25, 2015, the company announced it would partner with Rugen Therapeutic to develop new therapies for <a href="/wiki/Autism_spectrum_disorder" class="mw-redirect" title="Autism spectrum disorder">autism spectrum disorder</a>, <a href="/wiki/Rabies" title="Rabies">rabies</a> and <a href="/wiki/Obsessive_compulsive_disorder" class="mw-redirect" title="Obsessive compulsive disorder">obsessive compulsive disorder</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<h4 class="in-block"><span class="mw-headline" id="2016:_Abandoned_tax_inversion_with_Pfizer">2016: Abandoned tax inversion with Pfizer</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=7" title="Edit section: 2016: Abandoned tax inversion with Pfizer" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>On November 23, 2015, Allergan and <a href="/wiki/Pfizer" title="Pfizer">Pfizer</a> announced their intention to merge in a $160 billion transaction, the largest pharmaceutical deal and the third largest merger in history.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> On April 5, 2016, after the Obama administration announced its plan to ban <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversions</a>, Pfizer terminated the acquisition and paid Allergan a $150 million <a href="/wiki/Breakup_fee" title="Breakup fee">breakup fee</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<h4 class="in-block"><span class="mw-headline" id="2016:_Sale_of_Actavis_Generics_to_Teva">2016: Sale of Actavis Generics to Teva</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=8" title="Edit section: 2016: Sale of Actavis Generics to Teva" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>On April 6, 2016, the company announced it would partner with Heptares Therapeutics in a deal valued up to $3.3 billion to collaborate on the development of a subtype-selective <a href="/wiki/Muscarinic_agonist" title="Muscarinic agonist">muscarinic agonists</a> for <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer's disease</a> and other major neurological disorders.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> On April 21, the company announced the acquisition of Topokine Therapeutics for at least $85 million, gaining the phase IIb/III compound XAF5 - a treatment for <a href="/wiki/Dermatochalasis" title="Dermatochalasis">dermatochalasis</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p><p>On August 2, the company sold its <a href="/wiki/Generic_drug" title="Generic drug">generic drugs</a> business to <a href="/wiki/Teva_Pharmaceutical_Industries" title="Teva Pharmaceutical Industries">Teva Pharmaceutical Industries</a> for $33.4 billion and 100.3 million shares of Teva.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> On August 11, the company announced the acquisition of ForSight VISION5 for more than $95 million.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> On September 6, the company acquired RetroSense Therapeutics for more than $60 million, gaining the positive photosensitivity gene therapy treatment, RST-001. RST-001 is to be used in retinas in which rod and cone photoreceptors have degenerated over time, causing in increase in the sensitivity of light hitting the retina.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> On September 20, the company announced the acquisition of Tobira Therapeutics for $1.695 billion<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> and, a day later, the acquisition of Akarna Therapeutics for $50 million.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> On October 3, the company sold Anda, its generic drug distribution business, to Teva for $500 million.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> On October 25, the company acquired Vitae Pharmaceuticals, focused on dermatology treatments, for $639 million.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> On October 27, the company announced it would acquire Motus Therapeutics, a developer of treatments for gastrointestinal disorders, for $200 million.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> On November 22, 2016, the company acquired Chase Pharmaceuticals for an upfront payment of $125 million.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p>
+<h4 class="in-block"><span class="mw-headline" id="2017:_Additional_acquisitions">2017: Additional acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=9" title="Edit section: 2017: Additional acquisitions" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>On February 1, 2017, the company acquired LifeCell, a specialist in regenerative medicine, for $2.9 billion.<sup id="cite_ref-auto_41-0" class="reference"><a href="#cite_note-auto-41">[41]</a></sup> On April 28, the company acquired <a href="/wiki/Zeltiq_Aesthetics" title="Zeltiq Aesthetics">Zeltiq Aesthetics</a>, marketer of a <a href="/wiki/Cryolipolysis" class="mw-redirect" title="Cryolipolysis">cryolipolysis</a> procedure, for $2.4 billion.<sup id="cite_ref-auto_41-1" class="reference"><a href="#cite_note-auto-41">[41]</a></sup> On June 7, the company announced the acquisition of Keller Medical, a company that manufactures devices for use during <a href="/wiki/Breast_augmentation" title="Breast augmentation">breast augmentation</a> surgery.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> On December 12, the company announced the acquisition of <a href="/wiki/Repros_Therapeutics" title="Repros Therapeutics">Repros Therapeutics</a>, a developer of drugs for <a href="/wiki/Reproductive_system_disease" title="Reproductive system disease">reproductive system diseases</a>.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></p>
+<h4 class="in-block"><span class="mw-headline" id="2018:_Opioid_epidemic">2018: Opioid epidemic</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=10" title="Edit section: 2018: Opioid epidemic" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>In 2018, along with several other drug manufacturers and distributors, the company was sued by several municipalities and states in the U.S. due to the manufacture by the company of <a href="/wiki/Opioid" title="Opioid">opioids</a>, which have been abused in what is known as the <a href="/wiki/Opioid_epidemic" title="Opioid epidemic">opioid epidemic</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></p><p>In September, Allergan acquired aesthetic company, Bonti, for $195 million.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></p><p>In March 2019, the company acquired Envy Medical, Inc., boosting its <i>Medical Aesthetics</i> portfolio.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p>
+<h3 class="in-block"><span id="Acquisition_by_AbbVie_Inc._.28Post_2019.29"></span><span class="mw-headline" id="Acquisition_by_AbbVie_Inc._(Post_2019)">Acquisition by AbbVie Inc. (Post 2019)</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=11" title="Edit section: Acquisition by AbbVie Inc. (Post 2019)" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In June 2019, U.S. pharmaceutical company <a href="/wiki/AbbVie" class="mw-redirect" title="AbbVie">AbbVie</a> announced it had reached an agreement to acquire Allergan for $63 billion.<sup id="cite_ref-abbvieguardian_7-1" class="reference"><a href="#cite_note-abbvieguardian-7">[7]</a></sup> Unlike with Pfizer, the transaction, however, would not be structured as a corporate tax inversion; the post-transaction headquarters would remain in Abbvie's headquarters the U.S.<sup id="cite_ref-abbviebloomberg_8-1" class="reference"><a href="#cite_note-abbviebloomberg-8">[8]</a></sup> On the announcement of the transaction, Abbvie disclosed that its 2019 net effective tax rate, post the Trump <a href="/wiki/Tax_Cuts_and_Jobs_Act_of_2017" title="Tax Cuts and Jobs Act of 2017">Tax Cuts and Jobs Act of 2017</a>, was already lower than that of Irish-based Allergan at 9%, but that post the acquisition, the Group's effective tax rate would rise to 13%.<sup id="cite_ref-abbviebloomberg_8-2" class="reference"><a href="#cite_note-abbviebloomberg-8">[8]</a></sup> As of 2020, the deal hasn't been concluded, although CEO Rick Gonzalez stated that the deal was on track to close at the beginning of the year.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Acquisition_history">Acquisition history</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=12" title="Edit section: Acquisition history" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;background:white;">Illustration of the company's mergers, acquisitions, <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spin-offs</a> and historical predecessors</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<style data-mw-deduplicate="TemplateStyles:r935768785">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style><table class="clade" style="font-size:90%;line-height:110%"><tbody><tr><td class="clade-label first" style="border-left:none;border-right:none;border-bottom:0px solid;"><div style="display:inline;" class="nowrap"><span style="font-size:100%;"><b>Allergan, plc</b><br><small>(formerly known as Actavis until June 2015<br>when it adopted Allergan's name. Acquired by <a href="/wiki/Abbvie" class="mw-redirect" title="Abbvie">Abbvie</a> June 2019)</small></span></div><small>
+</small></td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"><a href="/wiki/Actavis_plc" class="mw-redirect" title="Actavis plc">Actavis plc</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Auden Mckenzie Holdings Limited<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Durata_Therapeutics" title="Durata Therapeutics">Durata Therapeutics </a><br><small>(Acq 2014)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Silom Medical Company<br><small>(Acq 2014)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"><a href="/wiki/Forest_Laboratories" title="Forest Laboratories">Forest Laboratories</a><br><small>(Acq 2014)</small>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"><a href="/wiki/Aptalis_Pharma" class="mw-redirect" title="Aptalis Pharma">Aptalis Pharma</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Axcan Pharma
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Eurand Pharmaceuticals
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Furiex Pharmaceuticals Inc<br><small>(Acq 2014)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Galen<br><small>(Acq 2013)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Uteron Pharma, S.A. <br><small>(Acq 2013)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Warner_Chilcott" title="Warner Chilcott">Warner Chilcott</a> Plc<br><small>(Acq 2000)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Procter_%26_Gamble" title="Procter &amp; Gamble">Procter &amp; Gamble</a><br><small>(Prescription drug div, Acq 2009)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Watson Pharmaceuticals
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Andrx Corporation<br><small>(Acq 2006)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Arrow Group<br><small>(Acq 2009)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Eden Biodesign<br><small></small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Specifar Pharmaceuticals S.A.<br><small>(Acq 2011)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Ascent Pharmahealth Ltd<br><small>(Acq 2012)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Actavis Group<br><small>(Acq 2012)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"><a href="/wiki/Allergan,_inc" class="mw-redirect" title="Allergan, inc">Allergan, inc</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Kythera Biopharmaceuticals<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>MAP Pharmaceuticals Inc<br><small>(Acq 2013)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Inamed Corporation<br><small>(Acq 2006)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Allergan<br><small>(Advanced Medical Optics spun off in 2006)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Janssen_Pharmaceutica" title="Janssen Pharmaceutica">Janssen-Ortho</a><br><small>Spun off in 2006</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Abbott_Laboratories" title="Abbott Laboratories">Abbott Laboratories</a><br><small>Acq 2007</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"><a href="/wiki/Allergan,_plc" class="mw-redirect" title="Allergan, plc">Allergan, plc</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Envy Medical, Inc.<br><small>(Acq 2019)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Repros_Therapeutics" title="Repros Therapeutics">Repros Therapeutics</a><br><small>(Acq 2017)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Keller Medical, Inc<br><small>(Acq 2017)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Zeltiq Aesthetics Inc.<br><small>(Acq 2017)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>LifeCell<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Chase Pharmaceuticals<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Motus Therapeutics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Akarna Therapeutics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>RetroSense Therapeutics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>ForSight VISION5<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Tobira Therapeutics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Vitae Pharmaceuticals, Inc<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Topokine Therapeutics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Northwood Medical Innovation Ltd<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>AqueSys<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Naurex Inc<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Oculeve, Inc<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last" style="border-right:none;border-left:none;"> 
+</td></tr></tbody></table></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=13" title="Edit section: Products" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Allergan acquires, develops, reprices and markets branded products in six therapeutic areas: aesthetics/dermatology/plastic surgery; neurosciences/<a href="/wiki/Central_nervous_system" title="Central nervous system">CNS</a>; eye care; women’s health and urology; <a href="/wiki/Gastrointestinal" class="mw-redirect" title="Gastrointestinal">GI</a> and cystic fibrosis; and cardiovascular disease and infectious disease. The company's products include Botox (<a href="/wiki/Botulinum_toxin" title="Botulinum toxin">botulinum toxin</a>), Namenda (<a href="/wiki/Memantine" title="Memantine">memantine</a>), Restasis (<a href="/wiki/Ciclosporin" title="Ciclosporin">ciclosporin</a>), Linzess (<a href="/wiki/Linaclotide" title="Linaclotide">linaclotide</a>), Bystolic (<a href="/wiki/Nebivolol" title="Nebivolol">nebivolol</a>), Juvederm (<a href="/wiki/Injectable_filler" title="Injectable filler">injectable filler</a>), Latisse (<a href="/wiki/Bimatoprost" title="Bimatoprost">bimatoprost</a>), Lo Loestrin Fe, Estrace (<a href="/wiki/Estradiol" title="Estradiol">estradiol</a>), Teflaro (<a href="/wiki/Ceftaroline_fosamil" title="Ceftaroline fosamil">ceftaroline fosamil</a>), Dalvance (<a href="/wiki/Dalbavancin" title="Dalbavancin">dalbavancin</a>, Ozurdex (<a href="/wiki/Dexamethasone" title="Dexamethasone">dexamethasone</a>), Optive, Natrelle, Viibryd (<a href="/wiki/Vilazodone" title="Vilazodone">vilazodone</a>), Liletta (<a href="/wiki/Levonorgestrel" title="Levonorgestrel">levonorgestrel</a>), Saphris (<a href="/wiki/Asenapine" title="Asenapine">asenapine</a>), Enablex (<a href="/wiki/Darifenacin" title="Darifenacin">darifenacin</a>), Actonel (<a href="/wiki/Risedronic_acid" title="Risedronic acid">risedronic acid</a>), Androderm (<a href="/wiki/Testosterone_(medication)" title="Testosterone (medication)">testosterone</a>), and Gelnique (<a href="/wiki/Oxybutynin" title="Oxybutynin">oxybutynin</a>).<sup id="cite_ref-10K_1-2" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=14" title="Edit section: See also" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/wiki/Biotech_and_pharmaceutical_companies_in_the_New_York_metropolitan_area" class="mw-redirect" title="Biotech and pharmaceutical companies in the New York metropolitan area">Biotech and pharmaceutical companies in the New York metropolitan area</a></li>
+<li><a href="/wiki/The_St._Regis_Mohawk_Tribe_and_Restasis_patent" title="The St. Regis Mohawk Tribe and Restasis patent">The St. Regis Mohawk Tribe and Restasis patent</a></li>
+<li><a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#Corporate_tax_inversions" title="Corporation tax in the Republic of Ireland">Corporate tax inversion</a></li>
+<li><a href="/wiki/Ireland_as_a_tax_haven" title="Ireland as a tax haven">Ireland as a tax haven</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=15" title="Edit section: References" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-10K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10K_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1578845/000156459019003111/agn-10k_20181231.htm">"Allergan plc 2018 Form 10-K Annual Report"</a>. <i><a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=U.S.+Securities+and+Exchange+Commission&amp;rft.atitle=Allergan+plc+2018+Form+10-K+Annual+Report&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1578845%2F000156459019003111%2Fagn-10k_20181231.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-wsj1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-wsj1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rockoff, Jonathan D.; Trentmann, Nina (11 February 2018). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/new-tax-law-haunts-companies-that-did-inversion-deals-1518350401">"New Tax Law Haunts Inversion Deals"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>. <q>Similarly, Allergan, a drugmaker that moved its headquarters to Ireland after a 2013 acquisition but gets about 80% of revenue in the U.S., expects the loss of deductions on intercompany loans will largely be balanced out by lower taxes on its U.S. sales.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=New+Tax+Law+Haunts+Inversion+Deals&amp;rft.date=2018-02-11&amp;rft.aulast=Rockoff&amp;rft.aufirst=Jonathan+D.&amp;rft.au=Trentmann%2C+Nina&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fnew-tax-law-haunts-companies-that-did-inversion-deals-1518350401&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-activis_deals-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-activis_deals_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-activis_deals_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-activis_deals_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="http://fortune.com/2015/07/30/actavis-allergan-timeline/">"From Actavis to Allergan: One pharma company's wild dealmaking journey"</a>. <i><a href="/wiki/Forbes_Magazine" class="mw-redirect" title="Forbes Magazine">Forbes Magazine</a></i>. 30 July 2015. <q>For a master class in mergers and acquisitions, one need only look at the company formerly known as Actavis. Now called Allergan, after its $70 billion acquisition of that maker of Botox last fall, the pharmaceutical firm has undertaken a dizzying series of deals in just the last few years, reinventing and renaming itself in a fashion that might make the artist formerly known as The Artist Formerly Known As Prince proud.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes+Magazine&amp;rft.atitle=From+Actavis+to+Allergan%3A+One+pharma+company%27s+wild+dealmaking+journey&amp;rft.date=2015-07-30&amp;rft_id=http%3A%2F%2Ffortune.com%2F2015%2F07%2F30%2Factavis-allergan-timeline%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-wsjinversions-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-wsjinversions_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wsjinversions_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Hoffman, Liz (7 July 2015). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/horizon-pharma-at-the-nexus-of-taxes-and-deals-1436296946">"The Tax Inversion Wave Keeps Rolling"</a>. <i><a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a></i>. <q>Horizon and other inverted companies are using their new, lower tax rates to turbocharge corporate takeovers. Applying those rates, often in the midteens, to profits of companies in the U.S., with a federal corporate rate of 35%, can yield extra savings on top of those traditionally wrung from mergers. Moreover, unlike the U.S., Ireland and most other countries, only tax profits earned in-country, giving companies the freedom and incentive to shift income to still-lower-tax jurisdictions.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=The+Tax+Inversion+Wave+Keeps+Rolling&amp;rft.date=2015-07-07&amp;rft.aulast=Hoffman&amp;rft.aufirst=Liz&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fhorizon-pharma-at-the-nexus-of-taxes-and-deals-1436296946&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-rules2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-rules2_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://blogs.wsj.com/briefly/2016/04/05/treasurys-new-inversion-rules-at-a-glance/">"Treasury's New Inversion Rules"</a>. <i><a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a></i>. 5 April 2016. <q>After a merger, if the shareholders of the former U.S. company own at least 80% of the combined firm, the government treats the new combined business as subject to U.S. taxes, basically negating the inversion, even if its address is abroad. If they own at least 60%, some restrictions apply but the company is still considered foreign. That’s led companies to keep their inversions below 60%—and prompted the government to propose rules halting various techniques for doing so.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Treasury%27s+New+Inversion+Rules&amp;rft.date=2016-04-05&amp;rft_id=https%3A%2F%2Fblogs.wsj.com%2Fbriefly%2F2016%2F04%2F05%2Ftreasurys-new-inversion-rules-at-a-glance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fiercepharma.com/pharma/teva-to-reap-700m-debt-easing-cash-from-allergan-post-deal-settlement">"Settling a post-buyout hangover, Allergan gives Teva a $700M remedy"</a>. <i>FiercePharma</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FiercePharma&amp;rft.atitle=Settling+a+post-buyout+hangover%2C+Allergan+gives+Teva+a+%24700M+remedy&amp;rft_id=https%3A%2F%2Fwww.fiercepharma.com%2Fpharma%2Fteva-to-reap-700m-debt-easing-cash-from-allergan-post-deal-settlement&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-abbvieguardian-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-abbvieguardian_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-abbvieguardian_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Julia Kollewe (25 June 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/business/2019/jun/25/botox-maker-allergan-bought-by-us-drug-giant-abbvie-for-63bn">"Botox maker Allergan bought by US drug giant for $63bn"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Botox+maker+Allergan+bought+by+US+drug+giant+for+%2463bn&amp;rft.date=2019-06-25&amp;rft.au=Julia+Kollewe&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2019%2Fjun%2F25%2Fbotox-maker-allergan-bought-by-us-drug-giant-abbvie-for-63bn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-abbviebloomberg-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-abbviebloomberg_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-abbviebloomberg_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-abbviebloomberg_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Rebecca Spalding; Riley Griffin (25 June 2019). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2019-06-25/abbvie-in-63-billion-deal-to-buy-botox-maker-allergan">"AbbVie Strikes $63 Billion Deal for Botox Maker Allergan"</a>. <a href="/wiki/Bloomberg_News" title="Bloomberg News">Bloomberg News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2019</span>. <q>The deal will return Allergan to the U.S., at least for tax purposes.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AbbVie+Strikes+%2463+Billion+Deal+for+Botox+Maker+Allergan&amp;rft.pub=Bloomberg+News&amp;rft.date=2019-06-25&amp;rft.au=Rebecca+Spalding&amp;rft.au=Riley+Griffin&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-06-25%2Fabbvie-in-63-billion-deal-to-buy-botox-maker-allergan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Todd, Susan (January 30, 2012). <a rel="nofollow" class="external text" href="http://www.nj.com/business/index.ssf/2012/01/generic_drug_maker_watson_open.html">"Generic drug maker Watson opening research operations in North Brunswick"</a>. <i><a href="/wiki/NJ.com" title="NJ.com">NJ.com</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NJ.com&amp;rft.atitle=Generic+drug+maker+Watson+opening+research+operations+in+North+Brunswick&amp;rft.date=2012-01-30&amp;rft.aulast=Todd&amp;rft.aufirst=Susan&amp;rft_id=http%3A%2F%2Fwww.nj.com%2Fbusiness%2Findex.ssf%2F2012%2F01%2Fgeneric_drug_maker_watson_open.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/watson-completes-actavis-acquisition-176682731.html">"Watson Completes Actavis Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 31, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Watson+Completes+Actavis+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2012-10-31&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fwatson-completes-actavis-acquisition-176682731.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ft.com/content/4d5df734-c147-11e2-9767-00144feab7de">"Actavis to acquire Warner Chilcott in $5bn pharmaceutical deal"</a>. <i><a href="/wiki/Financial_Times" title="Financial Times">Financial Times</a></i>. 20 May 2013. <q>Actavis sought to fend off takeover threats by purchasing Dublin-based rival Warner Chilcott in a $5bn deal designed to turn it into the world’s third-largest generic drug company by sales. The agreed all-stock deal, worth $8.5bn including net debt, follows recent efforts by competitors including Valeant and Mylan to acquire Actavis. Analysts said the move could spark alternative bids for Actavis or Warner Chilcott at a time of rapid consolidation in the sector. [..] The transaction will also exploit tax savings through the creation of a new Irish holding company, cutting Actavis’ estimated 28 percent tax rate this year to 17 per cent and helping create annual synergies that the company said would exceed $400m.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Financial+Times&amp;rft.atitle=Actavis+to+acquire+Warner+Chilcott+in+%245bn+pharmaceutical+deal&amp;rft.date=2013-05-20&amp;rft_id=https%3A%2F%2Fwww.ft.com%2Fcontent%2F4d5df734-c147-11e2-9767-00144feab7de&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/actavis-completes-warner-chilcott-acquisition-225944231.html">"Actavis Completes Warner Chilcott Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 1, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Actavis+Completes+Warner+Chilcott+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2013-10-01&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Factavis-completes-warner-chilcott-acquisition-225944231.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Berkman, Leslie (July 27, 1989). <a rel="nofollow" class="external text" href="http://articles.latimes.com/1989-07-27/business/fi-352_1_smithkline-beckman">"Shareholders OK SmithKline Deal Spinning Off Beckman, Allergan"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Shareholders+OK+SmithKline+Deal+Spinning+Off+Beckman%2C+Allergan&amp;rft.date=1989-07-27&amp;rft.aulast=Berkman&amp;rft.aufirst=Leslie&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1989-07-27%2Fbusiness%2Ffi-352_1_smithkline-beckman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2002/jul/02/business/fi-calbrfs2.1">"Eye-Care Firm Spins Off From Allergan"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a>. July 2, 2002.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Eye-Care+Firm+Spins+Off+From+Allergan&amp;rft.date=2002-07-02&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2002%2Fjul%2F02%2Fbusiness%2Ffi-calbrfs2.1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Piccalo, Gina (September 22, 2003). <a rel="nofollow" class="external text" href="http://articles.latimes.com/2003/sep/22/health/he-botox22">"Taking aim at Botox"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0458-3035">0458-3035</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Taking+aim+at+Botox&amp;rft.date=2003-09-22&amp;rft.issn=0458-3035&amp;rft.aulast=Piccalo&amp;rft.aufirst=Gina&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2003%2Fsep%2F22%2Fhealth%2Fhe-botox22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1401923/000119312513088005/d495160d8k.htm">"MAP Pharmaceuticals Inc. Form 8-K"</a>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. March 1, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MAP+Pharmaceuticals+Inc.+Form+8-K&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft.date=2013-03-01&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1401923%2F000119312513088005%2Fd495160d8k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20131202006332/en/Allergan-Completes-Sale-Obesity-Intervention-Business">"Allergan, Inc. Completes Sale of Obesity Intervention Business"</a> (Press release). <a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a>. December 2, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan%2C+Inc.+Completes+Sale+of+Obesity+Intervention+Business&amp;rft.pub=Business+Wire&amp;rft.date=2013-12-02&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20131202006332%2Fen%2FAllergan-Completes-Sale-Obesity-Intervention-Business&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/actavis-completes-allergan-acquisition-300051633.html">"Actavis Completes Allergan Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. March 17, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Actavis+Completes+Allergan+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2015-03-17&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Factavis-completes-allergan-acquisition-300051633.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/actavis-plc-is-now-allergan-plc-300098692.html">"Actavis plc is now Allergan plc"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. June 15, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Actavis+plc+is+now+Allergan+plc&amp;rft.pub=PR+Newswire&amp;rft.date=2015-06-15&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Factavis-plc-is-now-allergan-plc-300098692.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.allergan.com/investors/financial-information/sec-filings.aspx?searchmode=anyword&amp;searchtext=&amp;year=0&amp;groupings=8;">"2016 10-K for Allergan plc"</a>. <a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2016+10-K+for+Allergan+plc&amp;rft.pub=Securities+and+Exchange+Commission&amp;rft_id=https%3A%2F%2Fwww.allergan.com%2Finvestors%2Ffinancial-information%2Fsec-filings.aspx%3Fsearchmode%3Danyword%26searchtext%3D%26year%3D0%26groupings%3D8%3B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Dulaney, Chelsey (July 7, 2015). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/allergan-buys-rights-to-mercks-migraine-drugs-1436268370">"Allergan Buys Rights to Merck's Migraine Drugs"</a></span>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Allergan+Buys+Rights+to+Merck%27s+Migraine+Drugs&amp;rft.date=2015-07-07&amp;rft.aulast=Dulaney&amp;rft.aufirst=Chelsey&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fallergan-buys-rights-to-mercks-migraine-drugs-1436268370&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-oculeve-acquisition-300126314.html">"Allergan Successfully Completes Oculeve Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. August 10, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+Oculeve+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2015-08-10&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-oculeve-acquisition-300126314.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-naurex-acquisition-300135009.html">"Allergan Successfully Completes Naurex Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. August 31, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+Naurex+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2015-08-31&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-naurex-acquisition-300135009.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-aquesys-acquisition-adding-xen45-minimally-invasive-implantable-shunt-for-glaucoma-300161740.html">"Allergan Successfully Completes AqueSys Acquisition, Adding XEN45 Minimally Invasive Implantable Shunt for Glaucoma"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 19, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+AqueSys+Acquisition%2C+Adding+XEN45+Minimally+Invasive+Implantable+Shunt+for+Glaucoma&amp;rft.pub=PR+Newswire&amp;rft.date=2015-10-19&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-aquesys-acquisition-adding-xen45-minimally-invasive-implantable-shunt-for-glaucoma-300161740.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-kythera-acquisition-adds-game-changing-kybella-treatment-for-double-chin-300152533.html">"Allergan Successfully Completes Kythera Acquisition; Adds Game-Changing KYBELLA Treatment for Double-Chin"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 1, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+Kythera+Acquisition%3B+Adds+Game-Changing+KYBELLA+Treatment+for+Double-Chin&amp;rft.pub=PR+Newswire&amp;rft.date=2015-10-01&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-kythera-acquisition-adds-game-changing-kybella-treatment-for-double-chin-300152533.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.prnewswire.co.uk/news-releases/allergan-to-acquire-earfold-an-innovative-medical-device-for-the-correction-of-prominent-ears-540045261.html">"Allergan to Acquire earFold™, an Innovative Medical Device for the Correction of Prominent Ears"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. November 4, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+to+Acquire+earFold%E2%84%A2%2C+an+Innovative+Medical+Device+for+the+Correction+of+Prominent+Ears&amp;rft.pub=PR+Newswire&amp;rft.date=2015-11-04&amp;rft_id=http%3A%2F%2Fwww.prnewswire.co.uk%2Fnews-releases%2Fallergan-to-acquire-earfold-an-innovative-medical-device-for-the-correction-of-prominent-ears-540045261.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-and-rugen-therapeutics-announce-collaboration-to-discover-and-develop-ground-breaking-medicines-to-treat-autism-spectrum-disorders-and-obsessive-compulsive-disorders-300184387.html">"Allergan and Rugen Therapeutics Announce Collaboration to Discover and Develop Ground-Breaking Medicines to Treat Autism Spectrum Disorders and Obsessive-Compulsive Disorders"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. November 25, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+and+Rugen+Therapeutics+Announce+Collaboration+to+Discover+and+Develop+Ground-Breaking+Medicines+to+Treat+Autism+Spectrum+Disorders+and+Obsessive-Compulsive+Disorders&amp;rft.pub=PR+Newswire&amp;rft.date=2015-11-25&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-and-rugen-therapeutics-announce-collaboration-to-discover-and-develop-ground-breaking-medicines-to-treat-autism-spectrum-disorders-and-obsessive-compulsive-disorders-300184387.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/business-34900344">"Pfizer seals $160bn Allergan deal to create drugs giant"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. November 23, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Pfizer+seals+%24160bn+Allergan+deal+to+create+drugs+giant&amp;rft.date=2015-11-23&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-34900344&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news">Rockoff, Jonathan (April 6, 2016). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/pfizer-walks-away-from-allergan-deal-1459939739">"Pfizer Walks Away From Allergan Deal"</a></span>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Pfizer+Walks+Away+From+Allergan+Deal&amp;rft.date=2016-04-06&amp;rft.aulast=Rockoff&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fpfizer-walks-away-from-allergan-deal-1459939739&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-and-heptares-announce-global-rd-and-commercialization-partnership-for-novel-treatments-in-alzheimers-and-other-neurological-disorders-300247556.html">"Allergan and Heptares Announce Global R&amp;D and Commercialization Partnership for Novel Treatments in Alzheimer's and Other Neurological Disorders"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. April 6, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+and+Heptares+Announce+Global+R%26D+and+Commercialization+Partnership+for+Novel+Treatments+in+Alzheimer%27s+and+Other+Neurological+Disorders&amp;rft.pub=PR+Newswire&amp;rft.date=2016-04-06&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-and-heptares-announce-global-rd-and-commercialization-partnership-for-novel-treatments-in-alzheimers-and-other-neurological-disorders-300247556.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-acquires-topical-dermatology-company-topokine-therapeutics-adding-non-invasive-fat-reduction-development-program-300255614.html">"Allergan Acquires Topical Dermatology Company Topokine Therapeutics Adding Non-Invasive Fat Reduction Development Program"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. April 21, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Acquires+Topical+Dermatology+Company+Topokine+Therapeutics+Adding+Non-Invasive+Fat+Reduction+Development+Program&amp;rft.pub=PR+Newswire&amp;rft.date=2016-04-21&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-acquires-topical-dermatology-company-topokine-therapeutics-adding-non-invasive-fat-reduction-development-program-300255614.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-plc-completes-divestiture-of-global-generics-business-to-teva-pharmaceuticals-300307782.html">"Allergan plc Completes Divestiture of Global Generics Business to Teva Pharmaceuticals"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. August 2, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+plc+Completes+Divestiture+of+Global+Generics+Business+to+Teva+Pharmaceuticals&amp;rft.pub=PR+Newswire&amp;rft.date=2016-08-02&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-plc-completes-divestiture-of-global-generics-business-to-teva-pharmaceuticals-300307782.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-to-acquire-eye-care-company-forsight-vision5-adding-peri-ocular-ring-technology-to-companys-leading-portfolio-of-innovative-eye-health-products-300312348.html">"Allergan to Acquire Eye Care Company ForSight VISION5 Adding Peri-Ocular Ring Technology to Company's Leading Portfolio of Innovative Eye Health Products"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. August 11, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+to+Acquire+Eye+Care+Company+ForSight+VISION5+Adding+Peri-Ocular+Ring+Technology+to+Company%27s+Leading+Portfolio+of+Innovative+Eye+Health+Products&amp;rft.pub=PR+Newswire&amp;rft.date=2016-08-11&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-to-acquire-eye-care-company-forsight-vision5-adding-peri-ocular-ring-technology-to-companys-leading-portfolio-of-innovative-eye-health-products-300312348.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-acquires-gene-therapy-company-retrosense-therapeutics-adding-first-in-class-technology-to-companys-innovative-eye-care-pipeline-300322553.html">"Allergan Acquires Gene Therapy Company RetroSense Therapeutics Adding First-In-Class Technology to Company's Innovative Eye Care Pipeline"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. September 6, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Acquires+Gene+Therapy+Company+RetroSense+Therapeutics+Adding+First-In-Class+Technology+to+Company%27s+Innovative+Eye+Care+Pipeline&amp;rft.pub=PR+Newswire&amp;rft.date=2016-09-06&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-acquires-gene-therapy-company-retrosense-therapeutics-adding-first-in-class-technology-to-companys-innovative-eye-care-pipeline-300322553.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news">Stynes, Tess (September 20, 2016). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/allergan-agrees-to-buy-tobira-therapeutics-in-1-7-billion-deal-1474376639">"Allergan to Buy Tobira Therapeutics in $1.7 Billion Deal"</a></span>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Allergan+to+Buy+Tobira+Therapeutics+in+%241.7+Billion+Deal&amp;rft.date=2016-09-20&amp;rft.aulast=Stynes&amp;rft.aufirst=Tess&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fallergan-agrees-to-buy-tobira-therapeutics-in-1-7-billion-deal-1474376639&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news">Stynes, Tess (September 21, 2016). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/allergan-to-acquire-u-k-s-akarna-therapeutics-1474456238">"Allergan to Acquire U.K.'s Akarna Therapeutics"</a></span>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Allergan+to+Acquire+U.K.%27s+Akarna+Therapeutics&amp;rft.date=2016-09-21&amp;rft.aulast=Stynes&amp;rft.aufirst=Tess&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fallergan-to-acquire-u-k-s-akarna-therapeutics-1474456238&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.tevapharm.com/news/teva_completes_acquisition_of_anda_inc_10_16.aspx">"Teva Completes Acquisition of Anda, Inc"</a> (Press release). eva Pharmaceutical Industries. October 3, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Teva+Completes+Acquisition+of+Anda%2C+Inc.&amp;rft.pub=eva+Pharmaceutical+Industries&amp;rft.date=2016-10-03&amp;rft_id=http%3A%2F%2Fwww.tevapharm.com%2Fnews%2Fteva_completes_acquisition_of_anda_inc_10_16.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-vitae-tender-offer-300350377.html">"Allergan Successfully Completes Vitae Tender Offer"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 25, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+Vitae+Tender+Offer&amp;rft.pub=PR+Newswire&amp;rft.date=2016-10-25&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-vitae-tender-offer-300350377.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-to-acquire-gi-disease-subsidiary-of-rhythm-holding-company-llc-expanding-innovative-gastroenterology-pipeline-300352360.html">"Allergan to Acquire GI Disease Subsidiary of Rhythm Holding Company, LLC, Expanding Innovative Gastroenterology Pipeline"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. October 27, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+to+Acquire+GI+Disease+Subsidiary+of+Rhythm+Holding+Company%2C+LLC%2C+Expanding+Innovative+Gastroenterology+Pipeline&amp;rft.pub=PR+Newswire&amp;rft.date=2016-10-27&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-to-acquire-gi-disease-subsidiary-of-rhythm-holding-company-llc-expanding-innovative-gastroenterology-pipeline-300352360.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-acquires-chase-pharmaceuticals-to-expand-cns-rd-pipeline-and-build-on-commitment-to-alzheimers-disease-300367558.html">"Allergan Acquires Chase Pharmaceuticals to Expand CNS R&amp;D Pipeline and Build on Commitment to Alzheimer's Disease"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. November 22, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Acquires+Chase+Pharmaceuticals+to+Expand+CNS+R%26D+Pipeline+and+Build+on+Commitment+to+Alzheimer%27s+Disease&amp;rft.pub=PR+Newswire&amp;rft.date=2016-11-22&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-acquires-chase-pharmaceuticals-to-expand-cns-rd-pipeline-and-build-on-commitment-to-alzheimers-disease-300367558.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-auto-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-successfully-completes-lifecell-acquisition-300400110.html">"Allergan Successfully Completes LifeCell Acquisition"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. February 1, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+Successfully+Completes+LifeCell+Acquisition&amp;rft.pub=PR+Newswire&amp;rft.date=2017-02-01&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-successfully-completes-lifecell-acquisition-300400110.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/allergan-to-acquire-keller-medical-inc-adding-keller-funnel-to-companys-leading-plastic-surgery-portfolio-300470053.html">"Allergan to Acquire Keller Medical, Inc., Adding Keller Funnel® to Company's Leading Plastic Surgery Portfolio"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. June 7, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allergan+to+Acquire+Keller+Medical%2C+Inc.%2C+Adding+Keller+Funnel%C2%AE+to+Company%27s+Leading+Plastic+Surgery+Portfolio&amp;rft.pub=PR+Newswire&amp;rft.date=2017-06-07&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fallergan-to-acquire-keller-medical-inc-adding-keller-funnel-to-companys-leading-plastic-surgery-portfolio-300470053.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://globenewswire.com/news-release/2017/12/12/1252970/0/en/Repros-Therapeutics-Inc-Announces-Acquisition-by-Allergan-plc.html">"Repros Therapeutics Inc.® Announces Acquisition by Allergan plc"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. December 12, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Repros+Therapeutics+Inc.%C2%AE+Announces+Acquisition+by+Allergan+plc&amp;rft.pub=PR+Newswire&amp;rft.date=2017-12-12&amp;rft_id=https%3A%2F%2Fglobenewswire.com%2Fnews-release%2F2017%2F12%2F12%2F1252970%2F0%2Fen%2FRepros-Therapeutics-Inc-Announces-Acquisition-by-Allergan-plc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation news">Stempel, Jonathan (January 23, 2018). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-usa-opioids-litigation-newyorkcity/new-york-city-sues-drug-companies-over-opioid-epidemic-idUSKBN1FC2GK">"New York City sues drug companies over opioid epidemic"</a>. <i><a href="/wiki/Reuters" title="Reuters">Reuters</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=New+York+City+sues+drug+companies+over+opioid+epidemic&amp;rft.date=2018-01-23&amp;rft.aulast=Stempel&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-usa-opioids-litigation-newyorkcity%2Fnew-york-city-sues-drug-companies-over-opioid-epidemic-idUSKBN1FC2GK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation news">Gurman, Sadie; Mulvihill, Geoff (2 March 2018). <a rel="nofollow" class="external text" href="https://www.dddmag.com/news/2018/03/doj-support-lawsuits-against-companies-selling-opioids">"DOJ to Support Lawsuits Against Companies Selling Opioids"</a>. <i>Drug Discovery &amp; Development</i>. Advantage Business Media. Associated Press<span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Drug+Discovery+%26+Development&amp;rft.atitle=DOJ+to+Support+Lawsuits+Against+Companies+Selling+Opioids&amp;rft.date=2018-03-02&amp;rft.aulast=Gurman&amp;rft.aufirst=Sadie&amp;rft.au=Mulvihill%2C+Geoff&amp;rft_id=https%3A%2F%2Fwww.dddmag.com%2Fnews%2F2018%2F03%2Fdoj-support-lawsuits-against-companies-selling-opioids&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/am6a-botox-maker-allergan-buys-aesthetic-company-bonti-for-195-million-up-front/">"Botox Maker Allergan Buys Aesthetic Company Bonti for $195 Million Up Front"</a>. <i>BioSpace</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=Botox+Maker+Allergan+Buys+Aesthetic+Company+Bonti+for+%24195+Million+Up+Front&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fam6a-botox-maker-allergan-buys-aesthetic-company-bonti-for-195-million-up-front%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/allergan-to-acquire-bonti-adding-new-neurotoxin-programs-to-medical-aesthetics-pipeline/">"Allergan to Acquire Bonti Adding New Neurotoxin Programs to Medical Aesthetics Pipeline"</a>. <i>BioSpace</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=Allergan+to+Acquire+Bonti+Adding+New+Neurotoxin+Programs+to+Medical+Aesthetics+Pipeline&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fallergan-to-acquire-bonti-adding-new-neurotoxin-programs-to-medical-aesthetics-pipeline%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/allergan-acquires-envy-medical-inc-adding-skin-resurfacing-dermalinfusion-system-to-best-in-class-medical-aesthetics-portfolio/">"Allergan Acquires Envy Medical, Inc., Adding Skin Resurfacing Dermalinfusion System to Best-in-Class Medical Aesthetics Portfolio"</a>. <i>BioSpace</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=Allergan+Acquires+Envy+Medical%2C+Inc.%2C+Adding+Skin+Resurfacing+Dermalinfusion+System+to+Best-in-Class+Medical+Aesthetics+Portfolio&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fallergan-acquires-envy-medical-inc-adding-skin-resurfacing-dermalinfusion-system-to-best-in-class-medical-aesthetics-portfolio%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web">Speights, Keith (2020-02-26). <a rel="nofollow" class="external text" href="https://www.fool.com/investing/2020/02/26/what-happens-with-abbvie-if-its-allergan-buyout-is.aspx">"What Happens With AbbVie If Its Allergan Buyout Is Blocked?"</a>. <i>The Motley Fool</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Motley+Fool&amp;rft.atitle=What+Happens+With+AbbVie+If+Its+Allergan+Buyout+Is+Blocked%3F&amp;rft.date=2020-02-26&amp;rft.aulast=Speights&amp;rft.aufirst=Keith&amp;rft_id=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2020%2F02%2F26%2Fwhat-happens-with-abbvie-if-its-allergan-buyout-is.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllergan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Allergan&amp;action=edit&amp;section=16" title="Edit section: External links" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.allergan.com/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q906187#P856" title="Edit this at Wikidata"><noscript><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" data-file-width="20" data-file-height="20"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" data-alt="Edit this at Wikidata" data-width="10" data-height="10" data-srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x"> </span></a></li>
+<li>Business data for Allergan plc: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=AGN">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=AGN">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/AGN:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=AGN">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Allergan&amp;oldid=942748813">https://en.wikipedia.org/w/index.php?title=Allergan&amp;oldid=942748813</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-minerva-clock "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Allergan"
+				data-user-name="ChocolateSprinkles42"
+				data-user-gender="unknown"
+				data-timestamp="1582733702">
+				<span>Last edited on 26 February 2020, at 16:15</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Allergan&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.980","walltime":"1.185","ppvisitednodes":{"value":3958,"limit":1000000},"postexpandincludesize":{"value":328481,"limit":2097152},"templateargumentsize":{"value":3585,"limit":2097152},"expansiondepth":{"value":40,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":215537,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["130.46% 1295.872     33 Template:Clade","100.00%  993.284      1 -total"," 43.81%  435.152      1 Template:Reflist"," 19.77%  196.335      1 Template:Infobox_company"," 18.12%  180.031      1 Template:Infobox"," 14.10%  140.033     10 Template:Cite_web"," 12.03%  119.492     15 Template:Cite_news"," 10.90%  108.279     23 Template:Cite_press_release","  5.21%   51.783      5 Template:Wikidata","  4.46%   44.329      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.541","limit":"10.000"},"limitreport-memusage":{"value":8348359,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20200229104942","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Allergan","url":"https:\/\/en.wikipedia.org\/wiki\/Allergan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q906187","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q906187","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-10-24T18:49:14Z","dateModified":"2020-02-26T16:15:02Z","headline":"Irish tax-registered pharmaceutical"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":176,"wgHostname":"mw1333"});});</script>		</body>
+		</html>
+		
