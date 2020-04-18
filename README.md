@@ -22,11 +22,11 @@ Through out the course we covered many essential topics:
 
 In order to run the code on this repo, you might have to pip install the following:
 
-import pandas as pd 
-import seaborn as sns
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_validate
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import StratifiedKFold # this is one way to generate folds
-from sklearn.model_selection import KFold
+- import pandas as pd 
+- import seaborn as sns
+- import numpy as np
+- from sklearn.model_selection import train_test_split
+- from sklearn.model_selection import cross_validate
+- from sklearn.metrics import accuracy_score
+- from sklearn.model_selection import StratifiedKFold # this is one way to generate folds
+- from sklearn.model_selection import KFold
