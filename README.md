@@ -21,6 +21,7 @@ Through out the course we covered many essential topics:
 6. Machine Learning
 
 In order to run the code on this repo, you might have to pip install the following:
+
 import pandas as pd 
 import seaborn as sns
 import numpy as np
