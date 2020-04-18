@@ -19,5 +19,14 @@
     [GitHub](http://github.com)
     
 # “How to”
+- Move up a row- a 
+- Move down a row- b 
+- Delete a row- dd 
+- Type headers/markdowns 
+- Use # for notes
 
 # Golden Rules 
+- Make sure to restart and clear almost everytime update the code 
+- Make sure to save the code 
+- Write short comments/title before you push on github 
+- check code for any spelling errors 
